@@ -1,0 +1,8 @@
+Version 001_002
+- fixed vis switches on geo
+- fixed skin weights on teeth and tongue
+- reconnected eye texture
+
+Version 001_003
+- renamed hat interior _emi to _diff (the diffuse is also used for emission but this is for clarity)
+- added world space option to hat
